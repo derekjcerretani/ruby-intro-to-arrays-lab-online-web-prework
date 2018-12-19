@@ -30,5 +30,5 @@ end
 
 def last_element_with_array_methods(array)
   south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
-  south_east_asia.last 
+  south_east_asia.last
 end
