@@ -21,8 +21,6 @@ def last_element(array)
   taylor_swift[-1]
 end
 
-south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
-
 def first_element_with_array_methods(array)
   south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
   south_east_asia.first
@@ -32,3 +30,11 @@ def last_element_with_array_methods(array)
   south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
   south_east_asia.last
 end
+
+programming_languages = ["Ruby", "Javascript", "Python", "C++", "Java", "Lisp", "PHP", "Clojure"]
+
+def length_of_array(array)
+  programming_languages.length
+end
+
+
